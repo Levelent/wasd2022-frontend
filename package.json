@@ -24,9 +24,9 @@
   },
   "homepage": "https://github.com/jai-x/wasd2021-summer#readme",
   "nodecg": {
-    "compatibleRange": "~1.8.0",
+    "compatibleRange": "~1.9.0",
     "bundleDependencies": {
-      "nodecg-speedcontrol": "~2.3.0",
+      "nodecg-speedcontrol": "~2.4.0",
       "nodecg-tiltify": "~0.0.0",
       "ncg-spotify": "~1.6.0"
     },
